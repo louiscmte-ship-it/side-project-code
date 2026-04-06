@@ -1,0 +1,25 @@
+/* La page entière */
+body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px;
+    background-color: #f9f9f9;
+}
+
+/* Le titre principal */
+h1 {
+    color: #1a1a1a;
+    font-size: 48px;
+}
+
+/* Le bouton */
+button {
+    background-color: #5469d4;
+    color: white;
+    border: none;
+    padding: 14px 28px;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+}
